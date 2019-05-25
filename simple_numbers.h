@@ -1,4 +1,0 @@
-#ifndef SIMPLE_NUMBERS_H
-#define SIMPLE_NUMBERS_H
-
-#endif // SIMPLE_NUMBERS_H
